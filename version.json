@@ -1,7 +1,7 @@
 {
   "nitroxanalyser": {
-    "version": "3.95",
+    "version": "3.96",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Improved sensor/battery init to avoid drift on startup"
+    "changelog": "Configurable O2 averaging window (1-60 sec) in web UI"
   }
 }
