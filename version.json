@@ -1,7 +1,7 @@
 {
   "nitroxanalyser": {
-    "version": "3.94",
+    "version": "3.95",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Fix sensor error messages to display yellow"
+    "changelog": "Improved sensor/battery init to avoid drift on startup"
   }
 }
