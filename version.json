@@ -1,7 +1,7 @@
 {
   "nitroxanalyser": {
-    "version": "3.88",
+    "version": "3.9",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Color menu fixes, light/dark web UI, WiFi icon, menu headings"
+    "changelog": "Fix light mode for owner names and WiFi network cards"
   }
 }
