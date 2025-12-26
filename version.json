@@ -1,6 +1,6 @@
 {
   "nitroxanalyser": {
-    "version": "3.9",
+    "version": "3.90",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
     "changelog": "Fix light mode for owner names and WiFi network cards"
   }
