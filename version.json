@@ -1,7 +1,7 @@
 {
   "nitroxanalyser": {
-    "version": "3.96",
+    "version": "3.97",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Configurable O2 averaging window (1-60 sec) in web UI"
+    "changelog": "Battery icon with fill level, USB charging icon"
   }
 }
