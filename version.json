@@ -1,7 +1,7 @@
 {
   "nitroxanalyser": {
-    "version": "3.85",
-    "url": "https://github.com/c-chaskel/firmware-releases/releases/download/v3.85/firmware.bin",
-    "changelog": "OTA with progress bar"
+    "version": "3.86",
+    "url": "https://github.com/c-chaskel/firmware-releases/releases/download/v3.86/firmware.bin",
+    "changelog": "Fix OTA to not offer downgrades"
   }
 }
