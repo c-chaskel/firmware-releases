@@ -1,0 +1,7 @@
+{
+  "nitroxanalyser": {
+    "version": "3.84",
+    "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
+    "changelog": "OTA test with version.json"
+  }
+}
