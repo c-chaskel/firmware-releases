@@ -1,7 +1,7 @@
 {
   "nitroxanalyser": {
-    "version": "3.991",
+    "version": "3.992",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Orange printer error, O2 rounding fix, battery icon toggle"
+    "changelog": "Smaller bottom bar font"
   }
 }
