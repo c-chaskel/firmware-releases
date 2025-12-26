@@ -1,7 +1,7 @@
 {
   "nitroxanalyser": {
-    "version": "3.92",
+    "version": "3.93",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Device light/dark mode toggle via web UI"
+    "changelog": "Update Sky Blue to Windows azure color"
   }
 }
