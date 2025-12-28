@@ -5,8 +5,8 @@
     "changelog": "Calibration history chart, settings backup/restore, configurable sleep"
   },
   "divesoftadapter": {
-    "version": "1.0.2",
+    "version": "1.0.5",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Remove O2%/He% label text from Trimix layout"
+    "changelog": "Sensor data log (10 min), error logging with timestamps, detailed BLE errors"
   }
 }
