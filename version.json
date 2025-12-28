@@ -3,5 +3,10 @@
     "version": "3.996",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
     "changelog": "Calibration history chart, settings backup/restore, configurable sleep"
+  },
+  "divesoftadapter": {
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
+    "changelog": "Smaller Trimix font, auto-connect printer on boot, pause-to-print fix"
   }
 }
