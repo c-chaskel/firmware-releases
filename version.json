@@ -5,8 +5,8 @@
     "changelog": "Calibration history chart, settings backup/restore, configurable sleep"
   },
   "divesoftadapter": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Fix NVS full issue - debug logs RAM-only, NVS health monitoring"
+    "changelog": "Fix license key input field not keeping text while typing"
   }
 }
