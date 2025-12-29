@@ -5,8 +5,8 @@
     "changelog": "Calibration history chart, settings backup/restore, configurable sleep"
   },
   "divesoftadapter": {
-    "version": "1.0.10",
+    "version": "1.0.14",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Fix NVS full error (574) - early cleanup of old debug logs"
+    "changelog": "UI improvements, pause-to-print default 2s, side-by-side gas display"
   }
 }
