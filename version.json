@@ -5,8 +5,8 @@
     "changelog": "Calibration history chart, settings backup/restore, configurable sleep"
   },
   "divesoftadapter": {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "PRO licensing system - unlicensed shows O2/PRO instead of He"
+    "changelog": "Fix NVS full issue - debug logs RAM-only, NVS health monitoring"
   }
 }
