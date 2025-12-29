@@ -5,8 +5,8 @@
     "changelog": "Calibration history chart, settings backup/restore, configurable sleep"
   },
   "divesoftadapter": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Sensor data log (10 min), error logging with timestamps, detailed BLE errors"
+    "changelog": "Debug console with BLE scan, WiFi RSSI, connection timeline, raw serial log"
   }
 }
