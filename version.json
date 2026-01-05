@@ -1,8 +1,8 @@
 {
   "nitroxanalyser": {
-    "version": "4.02",
+    "version": "4.03",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "END fix (no negative), PPO2 default 1.6, WebUI accent color fix"
+    "changelog": "Fix WiFi stale state after deep sleep wake"
   },
   "divesoftadapter": {
     "version": "1.0.15",
