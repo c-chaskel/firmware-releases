@@ -1,8 +1,8 @@
 {
   "nitroxanalyser": {
-    "version": "4.0",
-    "url": "https://github.com/c-chaskel/firmware-releases/releases/download/v4.0-nitrox/firmware.bin",
-    "changelog": "WebUI fixes, print progress display, BLE stability, About tab"
+    "version": "4.02",
+    "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
+    "changelog": "END fix (no negative), PPO2 default 1.6, WebUI accent color fix"
   },
   "divesoftadapter": {
     "version": "1.0.15",
