@@ -5,8 +5,8 @@
     "changelog": "Fix WiFi stale state after deep sleep wake"
   },
   "divesoftadapter": {
-    "version": "1.0.15",
+    "version": "1.0.21",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Test print buttons on debug page for nitrox/trimix labels"
+    "changelog": "Major refactoring, UI redesign, shared library modules"
   }
 }
