@@ -5,8 +5,8 @@
     "changelog": "Fix WiFi stale state after deep sleep wake"
   },
   "divesoftadapter": {
-    "version": "1.0.22",
+    "version": "1.0.32",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Fix missing WebUI endpoints: owner names, live data, printing"
+    "changelog": "Fix owner names and printer save functionality"
   }
 }
