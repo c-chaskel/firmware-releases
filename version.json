@@ -1,12 +1,12 @@
 {
   "nitroxanalyser": {
-    "version": "4.03",
+    "version": "4.13",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Fix WiFi stale state after deep sleep wake"
+    "changelog": "Version 4.13 release"
   },
   "divesoftadapter": {
-    "version": "1.0.40",
+    "version": "1.1.22",
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Fix WebUI: names, printer, WiFi list, OTA check, display theme, heading alignment"
+    "changelog": "Version 1.1.22 release"
   }
 }
