@@ -6,9 +6,9 @@
     "changelog": "Web UI OTA cache compatibility and NIIMBOT print speed improvements"
   },
   "divesoftadapter": {
-    "version": "1.1.25",
-    "build": 2026070304,
+    "version": "1.1.27",
+    "build": 2026070305,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Web UI OTA cache compatibility and NIIMBOT print speed improvements"
+    "changelog": "Web UI OTA cache compatibility, Divesoft license compatibility, preserved saved settings, and NIIMBOT print speed improvements"
   }
 }
