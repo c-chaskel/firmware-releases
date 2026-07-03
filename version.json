@@ -6,9 +6,9 @@
     "changelog": "Web UI OTA cache compatibility, visible license status without stale WiFi prompts, and NIIMBOT print speed improvements"
   },
   "divesoftadapter": {
-    "version": "1.1.28",
-    "build": 202607030007,
+    "version": "1.1.31",
+    "build": 202607031352,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Web UI OTA cache compatibility, Divesoft license compatibility, cleaner license prompts, preserved saved settings, and NIIMBOT print speed improvements"
+    "changelog": "NIIMBOT print path restored to confirmed full-label GOOD profile, with robust appearance color/theme saving"
   }
 }
