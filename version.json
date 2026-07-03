@@ -1,14 +1,14 @@
 {
   "nitroxanalyser": {
-    "version": "4.17",
-    "build": 202607030006,
+    "version": "4.18",
+    "build": 202607030007,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Web UI OTA cache compatibility, visible Nitrox license status, Divesoft license compatibility, and NIIMBOT print speed improvements"
+    "changelog": "Web UI OTA cache compatibility, visible license status without stale WiFi prompts, and NIIMBOT print speed improvements"
   },
   "divesoftadapter": {
-    "version": "1.1.27",
-    "build": 202607030006,
+    "version": "1.1.28",
+    "build": 202607030007,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Web UI OTA cache compatibility, visible Nitrox license status, Divesoft license compatibility, and NIIMBOT print speed improvements"
+    "changelog": "Web UI OTA cache compatibility, Divesoft license compatibility, cleaner license prompts, preserved saved settings, and NIIMBOT print speed improvements"
   }
 }
