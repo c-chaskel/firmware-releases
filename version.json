@@ -1,14 +1,14 @@
 {
   "nitroxanalyser": {
-    "version": "4.14",
-    "build": 2026070207,
+    "version": "4.15",
+    "build": 2026070303,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Release with downgrade-safe OTA build checks, hardened Sentry reporting, paid-license activation, Web UI fixes, dive math settings, and USB installer support"
+    "changelog": "NIIMBOT print-speed update: response-paced setup, sparse/indexed row transfer, repeated-row batching, faster status-polled finish, and quicker direct BLE reconnect path"
   },
   "divesoftadapter": {
-    "version": "1.1.23",
-    "build": 2026070207,
+    "version": "1.1.24",
+    "build": 2026070303,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Release with downgrade-safe OTA build checks, hardened Sentry reporting, paid-license activation, stricter gas parsing, and USB installer support"
+    "changelog": "NIIMBOT print-speed update: response-paced setup, sparse/indexed row transfer, repeated-row batching, faster status-polled finish, and quicker direct BLE reconnect path"
   }
 }
