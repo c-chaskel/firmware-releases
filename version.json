@@ -6,9 +6,9 @@
     "changelog": "Web UI OTA cache compatibility, visible license status without stale WiFi prompts, and NIIMBOT print speed improvements"
   },
   "divesoftadapter": {
-    "version": "1.1.36",
-    "build": 202607041335,
+    "version": "1.1.37",
+    "build": 202607041348,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Restore legacy-stable NIIMBOT print pacing for reliable full Nitrox and Trimix labels; keep Web UI printer selection and OTA progress fixes"
+    "changelog": "Clarifies hostname saving: use the .local address after mDNS refresh and reboot if the name does not resolve; keeps legacy-stable NIIMBOT print pacing"
   }
 }
