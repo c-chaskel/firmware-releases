@@ -1,14 +1,14 @@
 {
   "nitroxanalyser": {
-    "version": "4.18",
-    "build": 202607030007,
+    "version": "4.26",
+    "build": 202607070016,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "Web UI OTA cache compatibility, visible license status without stale WiFi prompts, and NIIMBOT print speed improvements"
+    "changelog": "WebUI startup hardening after reboot; stable NIIMBOT print profile unchanged."
   },
   "divesoftadapter": {
-    "version": "1.1.37",
-    "build": 202607041348,
+    "version": "1.2.05",
+    "build": 202607070016,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "Clarifies hostname saving: use the .local address after mDNS refresh and reboot if the name does not resolve; keeps legacy-stable NIIMBOT print pacing"
+    "changelog": "WebUI startup hardening after reboot; stable NIIMBOT print profile unchanged."
   }
 }
