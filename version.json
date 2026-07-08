@@ -1,14 +1,18 @@
 {
   "nitroxanalyser": {
-    "version": "4.27",
-    "build": 202607080019,
+    "version": "4.32",
+    "build": 202607082053,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "changelog": "WebUI status polling timeout hardening; stable NIIMBOT print profile unchanged."
+    "sha256": "f21c0210e2247f458b1c0dfc4b9b4ce39de8cedcf21e4daf8d3a98ac3ca93bae",
+    "signature": "MEUCIQCBftiFVL92eU0cpn3CRI4_e9pwDRs2w2jtqg1ldmUmXgIgbsl3EoaK5Trm6pQ6Dh3YNTZZlS4fO4P23qctdpd8roE",
+    "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
   },
   "divesoftadapter": {
-    "version": "1.2.06",
-    "build": 202607080019,
+    "version": "1.2.11",
+    "build": 202607082053,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "changelog": "WebUI status polling timeout hardening; stable NIIMBOT print profile unchanged."
+    "sha256": "e1607ed72c73bb3c47becfcccebb17fcd9f792f07c0e1bd52dadf3c8e670e194",
+    "signature": "MEUCIQCZNGpVzPiuLzcIstzwEWcJQ74kgJUw8OQs7E03Zsi11QIgYPcuWqFAZMBiN8nAQVceWqL3CRojQ6LxvbJFfVb6jGk",
+    "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
   }
 }
