@@ -1,13 +1,13 @@
 {
   "nitroxanalyser": {
     "version": "4.27",
-    "build": 202607081116,
+    "build": 202607080019,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
     "changelog": "WebUI status polling timeout hardening; stable NIIMBOT print profile unchanged."
   },
   "divesoftadapter": {
     "version": "1.2.06",
-    "build": 202607081116,
+    "build": 202607080019,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
     "changelog": "WebUI status polling timeout hardening; stable NIIMBOT print profile unchanged."
   }
