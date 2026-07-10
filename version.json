@@ -8,11 +8,11 @@
     "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
   },
   "divesoftadapter": {
-    "version": "1.2.16",
-    "build": 202607102137,
+    "version": "1.2.17",
+    "build": 202607102155,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "4547f95ee0c10968a482c54f801fb35ca3d5ee40302f06704bdd35af9e2fa769",
-    "signature": "MEUCIQCHUOgkDSSXY8_C26qZyd1HcMDw_QSvSKu1lkM9rwcxBwIgWJxzfmjgloMP9MIOeJYnNWvi8_a51MFucS0envLeWWE",
-    "changelog": "Divesoft shared B1 print engine refactor: both firmwares now use one trusted print protocol implementation"
+    "sha256": "584c0f46b0d4a0dc7e8835bee0c07b5e4d7193e866bf18c426a396797f08035e",
+    "signature": "MEQCIA8UmuBu-DawuXcYvwbvAsusSeH7Wi1FHp0zmeCX5Q5cAiA4NHBO_exM2JfB1NjyzlpYwEAqc7NmNeXfU0eQLq91TQ",
+    "changelog": "Divesoft web UI live gas display follows latest analyser output per gas; invalid Helium blanks without freezing Oxygen"
   }
 }
