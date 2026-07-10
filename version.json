@@ -8,11 +8,11 @@
     "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
   },
   "divesoftadapter": {
-    "version": "1.2.19",
-    "build": 202607102223,
+    "version": "1.2.20",
+    "build": 202607102226,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "3d84be612e1d4180205c15913ccb0f0a53f11e5cd71ca692a7b79a9650cfce3a",
-    "signature": "MEUCIQDNN6mZgC-U1upXfPMmjZZbwfFxQ4zjdVRpe-Z5aaPxpAIgP5gOhz-1yn44N9Uce_EENhV7bA2V0Vn0BP-YBWs2l7I",
-    "changelog": "Divesoft pause-to-print arms from valid O2 feed despite intermittent He errors; printing uses last fresh valid He and aborts if He is stale"
+    "sha256": "0e48f5ac681f4df44821a77c53522fe0744a6b09c146180f40d9a19ded953d44",
+    "signature": "MEUCIQCBsHqfa__R7zmwlRMEkGdNhstwp6NE5h6FjyXUuYDwggIgKnW7HqE3ClXuZQ4tnSH7Y17iMlr5VoeR3vZ8mxhjeJE",
+    "changelog": "Divesoft requires fresh valid He before printing and treats measured He below 1.0% as Nitrox"
   }
 }
