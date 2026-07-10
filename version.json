@@ -8,11 +8,11 @@
     "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
   },
   "divesoftadapter": {
-    "version": "1.2.13",
-    "build": 202607102057,
+    "version": "1.2.14",
+    "build": 202607102113,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "4c82d959cb03ad9f838462f841abd9444bd8c0b1184af5bae2f59e9ea3ae8cb3",
-    "signature": "MEQCIF9E2bC-cqzUlqJDlh1xpGU7ZP1AwnaMH1QULALos6GAAiAjOvZ3BBINWBLd3_9oLQbWm0NOkrEhNqP2r95f0lrtMA",
-    "changelog": "Divesoft robust shared-style B1 print method: response-paced setup, indexed sparse rows, repeated-row batching, and status-poll finish"
+    "sha256": "ec12cdd72f2bededa16dbdf407cb24f02df471b8c5a86e3519dfad9fbd0d99df",
+    "signature": "MEUCIDP3AjjFMmq6gSTklx515-X9hQIf1sbvwW2E_QKlkDMUAiEAoYFLdQDvwfTkQAp8zHWbl8VM4qPSNoBwr_jkoA1sTBY",
+    "changelog": "Divesoft print reliability: retry early BLE session false-starts before PRINT_START while keeping robust B1 print method"
   }
 }
