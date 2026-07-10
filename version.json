@@ -8,11 +8,11 @@
     "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
   },
   "divesoftadapter": {
-    "version": "1.2.18",
-    "build": 202607102207,
+    "version": "1.2.19",
+    "build": 202607102223,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "08249489af7611466b92769b766811c2b935eb1e584d36efa0cf1a5d8389febb",
-    "signature": "MEQCIEhv1qk2m8--9QrxEoyMWcNNzRbv9_nc_d0GlFKxvPi6AiAOLKP9cIo51pVewnueGysyQmqTjhn9d2-4YBRRZ6AhuQ",
-    "changelog": "Divesoft web UI separates fast live gas polling from slower device status so analyser values keep updating even if full status stalls"
+    "sha256": "3d84be612e1d4180205c15913ccb0f0a53f11e5cd71ca692a7b79a9650cfce3a",
+    "signature": "MEUCIQDNN6mZgC-U1upXfPMmjZZbwfFxQ4zjdVRpe-Z5aaPxpAIgP5gOhz-1yn44N9Uce_EENhV7bA2V0Vn0BP-YBWs2l7I",
+    "changelog": "Divesoft pause-to-print arms from valid O2 feed despite intermittent He errors; printing uses last fresh valid He and aborts if He is stale"
   }
 }
