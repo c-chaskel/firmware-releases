@@ -8,11 +8,11 @@
     "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
   },
   "divesoftadapter": {
-    "version": "1.2.12",
-    "build": 202607102045,
+    "version": "1.2.13",
+    "build": 202607102057,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "da6af48b8e55cbccab67f572f99bf307bc3002844ced511284ac541186b02843",
-    "signature": "MEYCIQCwbD80dDhdggsFeCFWXchk1aSQxhwYIu2WBPkwGRzI9AIhALcPuYOFNsFEMCF_Z9WuZYVHw1NhMF-kBLPmOaXXoEtn",
-    "changelog": "Divesoft diagnostic print tail replay and persistent print-stage logging; keeps stable NIIMBOT B1 print method"
+    "sha256": "4c82d959cb03ad9f838462f841abd9444bd8c0b1184af5bae2f59e9ea3ae8cb3",
+    "signature": "MEQCIF9E2bC-cqzUlqJDlh1xpGU7ZP1AwnaMH1QULALos6GAAiAjOvZ3BBINWBLd3_9oLQbWm0NOkrEhNqP2r95f0lrtMA",
+    "changelog": "Divesoft robust shared-style B1 print method: response-paced setup, indexed sparse rows, repeated-row batching, and status-poll finish"
   }
 }
