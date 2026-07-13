@@ -1,11 +1,11 @@
 {
   "nitroxanalyser": {
-    "version": "4.32",
-    "build": 202607082053,
+    "version": "4.33",
+    "build": 202607131000,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "f21c0210e2247f458b1c0dfc4b9b4ce39de8cedcf21e4daf8d3a98ac3ca93bae",
-    "signature": "MEUCIQCBftiFVL92eU0cpn3CRI4_e9pwDRs2w2jtqg1ldmUmXgIgbsl3EoaK5Trm6pQ6Dh3YNTZZlS4fO4P23qctdpd8roE",
-    "changelog": "Release Trimix 1.2.11 and Nitrox 4.32: setup AP fallback, shared AP password, stable printing and UI fixes"
+    "sha256": "bc5f2b184f6ce95402fa2809475720be3155bba8ac82b9357bdac13167e50826",
+    "signature": "MEUCIALwOiqtbU5lrCzJKFuwoViJJ4UhSJUxvbapTHX4Sm09AiEAoK7LFF2Xk9vUH9D3xcsdB6a2SK7kV55Urm4Bwi_8kQY",
+    "changelog": "Nitrox 4.33: preserves saved Wi-Fi during startup, restores profiles affected by v4.32, and accepts signed Nitrox Pro entitlements"
   },
   "divesoftadapter": {
     "version": "1.2.20",
