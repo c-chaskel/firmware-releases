@@ -1,11 +1,11 @@
 {
   "nitroxanalyser": {
-    "version": "4.36",
-    "build": 202607151900,
+    "version": "4.37",
+    "build": 202607150038,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "7434fc2d6017b871a1c620c33ecbe4339047e88b6ab27699f7369aae013be13c",
-    "signature": "MEQCIDguWQwOxjRd3_q0oIIrqEuz2tjYbHR2vjWvGHV9PZeGAiBl6bM7n__oPBVsBBlv7IcYsCKGhp48YNCd8sskHF1iiw",
-    "changelog": "Nitrox 4.36: defers Wi-Fi scans and reconnection while someone is using the setup AP, preserving the active setup session"
+    "sha256": "5086c6b408635e44b73cddb820f66b1b695a3ed5f8a4c97b5e1314e85ff3bb9e",
+    "signature": "MEUCIQCm0iCWzRAz22u75e9A1YXmDtIZQs_XVxTaPOndteKXzgIgdlxLUbmYwf7SMknTLizKc4iELt25Bu1VdqfiH90I0OI",
+    "changelog": "Nitrox 4.37: Wi-Fi profile persistence, AP-to-STA handoff stability, and shared print engine."
   },
   "divesoftadapter": {
     "version": "1.2.31",
