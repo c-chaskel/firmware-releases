@@ -8,11 +8,11 @@
     "changelog": "Nitrox 4.36: defers Wi-Fi scans and reconnection while someone is using the setup AP, preserving the active setup session"
   },
   "divesoftadapter": {
-    "version": "1.2.26",
-    "build": 202607151900,
+    "version": "1.2.27",
+    "build": 202607151930,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "663e5749ea836d3bb228e4844add4ecac6832b0ff643892749c495f55731a8ff",
-    "signature": "MEUCIFrRFb6mIb3_9JHTS63Et_O664Ku-toNjfndMHRVfjjSAiEAnfAZyCvOFFL5Pc4zlF2zmar4M4M7cT6qRaf2bHCo2Ro",
-    "changelog": "Divesoft 1.2.26: preserves setup AP passwords, defers Wi-Fi scans while the AP is in use, and prevents deleted Wi-Fi profiles from returning after reboot"
+    "sha256": "8f0c01deeeccdbb07ed5e2d7db293c3e6e943a47ecb62813bcc019cd7c1a544c",
+    "signature": "MEYCIQDUhxBQr-4n3qyxzX1Tkf4hwHovjoYLol2ZBIMLVXU4IgIhAN_IGuYGkqUm76DNQRSrr2TtUwdX0-l9FvvLaBtE-2od",
+    "changelog": "Divesoft 1.2.27: classifies intentional printer disconnects correctly, keeping successful on-demand prints out of the error log"
   }
 }
