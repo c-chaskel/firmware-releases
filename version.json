@@ -1,18 +1,18 @@
 {
   "nitroxanalyser": {
-    "version": "4.35",
-    "build": 202607131300,
+    "version": "4.36",
+    "build": 202607151900,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "fbf81313ada80a58cbacd8cd55186b6b186b42bac41b1dfa473aed749fa54500",
-    "signature": "MEMCHxtFQ8WDJ4jQrHmVT21QZpCHoxGmWC8jPKfj6JUUZLwCIE7IdT3YvB1YWQyaRWXaRYSn6U0fDO0XghUSDYGcBqPA",
-    "changelog": "Nitrox 4.35: restores live O2/MOD status in the web UI, prevents stalled polling, preserves Wi-Fi profiles, and validates device-bound Pro licences"
+    "sha256": "7434fc2d6017b871a1c620c33ecbe4339047e88b6ab27699f7369aae013be13c",
+    "signature": "MEQCIDguWQwOxjRd3_q0oIIrqEuz2tjYbHR2vjWvGHV9PZeGAiBl6bM7n__oPBVsBBlv7IcYsCKGhp48YNCd8sskHF1iiw",
+    "changelog": "Nitrox 4.36: defers Wi-Fi scans and reconnection while someone is using the setup AP, preserving the active setup session"
   },
   "divesoftadapter": {
-    "version": "1.2.23",
-    "build": 202607131300,
+    "version": "1.2.26",
+    "build": 202607151900,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "bb9882d8a4cbb5ae90a8b706fb4ef0fcc231985e8ed5b4bafc019872cccdcfb9",
-    "signature": "MEYCIQDi5A2EqfgrDA_XikwVA1xbGBPMAKsgh-95dgo8l-0vhAIhAO0-2HATkRPb119sTXUBEqi6r1uDFzX2UuyY3DFFb5Ou",
-    "changelog": "Divesoft 1.2.23: prints unlicensed Trimix labels with a PRO helium marker, rejects licences for other products, and aborts failed printer setup cleanly"
+    "sha256": "663e5749ea836d3bb228e4844add4ecac6832b0ff643892749c495f55731a8ff",
+    "signature": "MEUCIFrRFb6mIb3_9JHTS63Et_O664Ku-toNjfndMHRVfjjSAiEAnfAZyCvOFFL5Pc4zlF2zmar4M4M7cT6qRaf2bHCo2Ro",
+    "changelog": "Divesoft 1.2.26: preserves setup AP passwords, defers Wi-Fi scans while the AP is in use, and prevents deleted Wi-Fi profiles from returning after reboot"
   }
 }
