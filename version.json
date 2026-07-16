@@ -8,11 +8,11 @@
     "changelog": "Signing-key rotation: one-time USB migration required; reissue device-bound licences after flashing."
   },
   "divesoftadapter": {
-    "version": "1.2.32",
-    "build": 202607150041,
+    "version": "1.2.33",
+    "build": 202607160047,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "76ea9e374dc2d715fc8e50a91aa278bece3ced54f4b35e823d813c0362392fd1",
-    "signature": "MEYCIQDYu2Rcj5ytZlPGP-7bjONF1bGtbtHFDtlTBESaH4PHXQIhAK1izt_O6Xt4DyHcV_tOuO-EueGYmzGzvV1xh1UM6WBS",
-    "changelog": "Signing-key rotation: one-time USB migration required; reissue device-bound licences after flashing."
+    "sha256": "0fe205b7d4ba9452bc25272e2da09c08c46458eb1eb3908328c69ab0bbbf529c",
+    "signature": "MEYCIQCLkv5DK2gbXuYDHrkdflkWD2kMaj4Ju59eK9f92kN5HgIhAJS60YV-dTCVmyVYVtHtTLsjJPNDGYafKVunY-KTrj08",
+    "changelog": "Fix Waveshare ESP32-S3-Zero RGB LED colour order"
   }
 }
