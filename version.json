@@ -8,11 +8,11 @@
     "changelog": "Signing-key rotation: one-time USB migration required; reissue device-bound licences after flashing."
   },
   "divesoftadapter": {
-    "version": "1.2.41",
-    "build": 202607160067,
+    "version": "1.2.42",
+    "build": 202607160069,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "b26de2e6c7ef9eaf27deef82ff3fbc0bcb16a72f9bbc4954854084ce4e7f089a",
-    "signature": "MEYCIQDWqe3M6tSmWcaFNRRo0Qs6RbLb7mNYjCo_RKchJkpOwgIhAL-ukos-RzQCI2PKS0m3Qhn3kS4eqLqPLIKJs6NhVnx-",
-    "changelog": "Reduce normal WLAN TX power to 13 dBm while retaining the 5 dBm setup AP limit."
+    "sha256": "98ad8186c6680c7e4793ddc55c5b4c0bb74f861ebbee63bd908762178c9f8b22",
+    "signature": "MEYCIQC7Uu9AsU9daHBW7Jn4L0-9h3VIOwIHogKU0rWSvcuolQIhAOHBub1rbCb-e4DxBd-M5j-6oDv3jugkRA1MHZgvpf6W",
+    "changelog": "Ensure normal WLAN transmit power is reapplied after station association (13 dBm); setup AP remains 5 dBm."
   }
 }
