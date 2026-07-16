@@ -8,11 +8,11 @@
     "changelog": "Signing-key rotation: one-time USB migration required; reissue device-bound licences after flashing."
   },
   "divesoftadapter": {
-    "version": "1.2.35",
-    "build": 202607160052,
+    "version": "1.2.36",
+    "build": 202607160054,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "cb5482fdc1716b8b2360e068a241b917b91e70782e20446eb4bac756ade21be9",
-    "signature": "MEYCIQDgOSP1s_dn00o9-_eRA-m6hg-1JZx0qbeBp91wNriesAIhAK26FEN7y2y5g6sEU_4CU7MWGPcCvtllL5L4f59pSNsR",
-    "changelog": "Stabilize the setup AP at 240 MHz and keep it awake throughout BLE label printing."
+    "sha256": "6a9f88995ba02acc58ae7bf923213fd2d1ee9ca9b9e4e37c9d4b53474e9d6d9c",
+    "signature": "MEUCIHNqhbIJaoQoVEYHj39l7apWxFf7rOehli3PGPo51w8xAiEAyL-V2GdANS_PpGid4s8lJj17KSsMsPWLvzhMqareYwA",
+    "changelog": "Restore the setup AP reliably after the final saved Wi-Fi network is removed."
   }
 }
