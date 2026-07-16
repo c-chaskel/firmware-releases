@@ -8,11 +8,11 @@
     "changelog": "Signing-key rotation: one-time USB migration required; reissue device-bound licences after flashing."
   },
   "divesoftadapter": {
-    "version": "1.2.38",
-    "build": 202607160058,
+    "version": "1.2.39",
+    "build": 202607160062,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "1973d9f2e6ab9813d1972f5c38834e35c388d06f6bd2c0eca270027145936300",
-    "signature": "MEQCIB2CrAnCY1Sq6tPUOk0_p9K4s8sPxMt4h4im3BcsN0iXAiBGtLSFRxcse9wPBy8Ff3EoedumoC2AgtYHtNY6iMH6Rg",
-    "changelog": "Fix setup AP to saved Wi-Fi handover without requiring a reboot."
+    "sha256": "71cbbc7211eb1c21e567cc2c6fff4d6bc075886fb27edc2894b8be90415c3fe1",
+    "signature": "MEYCIQCIJx9tZxxAOtu5fXxSLKhvippkLxX5WBX88wzYkPr8rwIhAL9yNlFA0Y6_bHBU9P-joZt9nd3Y36VunyEs_5x1fw-G",
+    "changelog": "Add saved LED type selection (GRB default, RGB available in the UI)."
   }
 }
