@@ -8,11 +8,11 @@
     "changelog": "Signing-key rotation: one-time USB migration required; reissue device-bound licences after flashing."
   },
   "divesoftadapter": {
-    "version": "1.2.37",
-    "build": 202607160056,
+    "version": "1.2.38",
+    "build": 202607160058,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "7251e114b47a11723ec09332eb50c2ba3e35ba82bec9e7c9bc26732e09bbf73f",
-    "signature": "MEUCIQCbOWYkSWDonIsKMH-fpG1pr4jX1-XA51SCRgc4q_xaAgIgdapwTFlDXrbJ9WOo30-yrru0cyiKPk_aeBbiz3eNT9E",
-    "changelog": "Keep the branded setup AP name when returning from station Wi-Fi."
+    "sha256": "1973d9f2e6ab9813d1972f5c38834e35c388d06f6bd2c0eca270027145936300",
+    "signature": "MEQCIB2CrAnCY1Sq6tPUOk0_p9K4s8sPxMt4h4im3BcsN0iXAiBGtLSFRxcse9wPBy8Ff3EoedumoC2AgtYHtNY6iMH6Rg",
+    "changelog": "Fix setup AP to saved Wi-Fi handover without requiring a reboot."
   }
 }
