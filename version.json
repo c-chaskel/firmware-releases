@@ -8,11 +8,11 @@
     "changelog": "Signing-key rotation: one-time USB migration required; reissue device-bound licences after flashing."
   },
   "divesoftadapter": {
-    "version": "1.2.33",
-    "build": 202607160047,
+    "version": "1.2.34",
+    "build": 202607160049,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "0fe205b7d4ba9452bc25272e2da09c08c46458eb1eb3908328c69ab0bbbf529c",
-    "signature": "MEYCIQCLkv5DK2gbXuYDHrkdflkWD2kMaj4Ju59eK9f92kN5HgIhAJS60YV-dTCVmyVYVtHtTLsjJPNDGYafKVunY-KTrj08",
-    "changelog": "Fix Waveshare ESP32-S3-Zero RGB LED colour order"
+    "sha256": "2e10135a42349ae6887aaad7ba9319d37ac5a916107a2b8b0c053d55edd1c484",
+    "signature": "MEUCIFKnIAA7-bBgPom_8PXPkeWvA6wNselmEV5zHEfY8pECAiEAhaXPWIiKT7FkuXm_49QQkB3ZlhvpxqTWCWzmrHpjV90",
+    "changelog": "Fix setup AP responsiveness by retaining 240 MHz CPU; add mandatory AP smoke coverage"
   }
 }
