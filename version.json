@@ -1,11 +1,11 @@
 {
   "nitroxanalyser": {
-    "version": "4.46",
-    "build": 202607170071,
+    "version": "4.47",
+    "build": 202607170073,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "81483c14a26746521abe5fe9d076f6558835bde392479c6fe555e0a80e5ad02d",
-    "signature": "MEUCIQDIdtM6Mcx0JgFCNDBpKUD-OO6ZovxlNHi1h5mWZ4ZVggIgXiIfjjXWK_5XVgPM3UuuGKVcxyzd6DGTOpewbQv8xvU",
-    "changelog": "Fixes saved-printer onboarding and makes BLE label transfer resilient to printer back-pressure."
+    "sha256": "ac03105921f020c28e6237b6194fd46337f88e30d5a7e244f1c7359f98ff235d",
+    "signature": "MEUCIHmc6SnOW0qL8eKxiIOP0LVHFOISieku153wFQnix4OmAiEAv-upp-7GBi6xHJ5K-cvBB6zsREU7UmbZFLgra8TxmME",
+    "changelog": "Fixes the Nitrox AP information screen layout so all setup rows remain visible without overlap."
   },
   "divesoftadapter": {
     "version": "1.2.42",
