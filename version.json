@@ -8,11 +8,11 @@
     "changelog": "Fixes the Nitrox AP information screen layout so all setup rows remain visible without overlap."
   },
   "divesoftadapter": {
-    "version": "1.2.42",
-    "build": 202607160069,
+    "version": "1.2.45",
+    "build": 202607180076,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "98ad8186c6680c7e4793ddc55c5b4c0bb74f861ebbee63bd908762178c9f8b22",
-    "signature": "MEYCIQC7Uu9AsU9daHBW7Jn4L0-9h3VIOwIHogKU0rWSvcuolQIhAOHBub1rbCb-e4DxBd-M5j-6oDv3jugkRA1MHZgvpf6W",
-    "changelog": "Ensure normal WLAN transmit power is reapplied after station association (13 dBm); setup AP remains 5 dBm."
+    "sha256": "466f932a50521e30cc33e1a568b118aa6052cfa5376c68cdcde0ceddb70948f8",
+    "signature": "MEYCIQCHwEwNN8GXUMex3KBCbE-e3u1pWpzo861FzO2hyO1EtQIhAIkfNsioNCmoRS5H4Xlr_gTKXdJfC9XXqTFFauUZ0lri",
+    "changelog": "Improve RTC detection and add local AP clock setup; NTP remains the automatic sync source."
   }
 }
