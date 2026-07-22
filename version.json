@@ -8,11 +8,11 @@
     "changelog": "Fixes the Nitrox AP information screen layout so all setup rows remain visible without overlap."
   },
   "divesoftadapter": {
-    "version": "1.2.45",
-    "build": 202607180076,
+    "version": "1.2.47",
+    "build": 202607220078,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "466f932a50521e30cc33e1a568b118aa6052cfa5376c68cdcde0ceddb70948f8",
-    "signature": "MEYCIQCHwEwNN8GXUMex3KBCbE-e3u1pWpzo861FzO2hyO1EtQIhAIkfNsioNCmoRS5H4Xlr_gTKXdJfC9XXqTFFauUZ0lri",
-    "changelog": "Improve RTC detection and add local AP clock setup; NTP remains the automatic sync source."
+    "sha256": "101173745dad966863539e957d5bef3f7f38295a61c3de4bb57068ea55f3f12c",
+    "signature": "MEUCIQCAJKKsrsV5xXQOKkWHxg5aZCe2vbt74vleHm4gqxp6SAIgBWLsLDCNki4PtQfDcCT7jdJNaOx8oFzgfox8aoIXyhI",
+    "changelog": "v1.2.47: verifies new home or venue Wi-Fi credentials before saving, discards invalid entries, keeps the setup Wi-Fi active while a client is connected, clarifies the two passwords, and adds Factory Reset (Keep License)."
   }
 }
