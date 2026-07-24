@@ -8,11 +8,11 @@
     "changelog": "Fixes the Nitrox AP information screen layout so all setup rows remain visible without overlap."
   },
   "divesoftadapter": {
-    "version": "1.2.52",
-    "build": 202607240087,
+    "version": "1.2.74",
+    "build": 202607240104,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "39c6395d0ee52425be75357117004dd1ff6398c9fd835d092a269f4c7d5ef01d",
-    "signature": "MEUCIEMIntJAyt-JmbQVsNU8beX4er-kDJt8mGoUjqridpqrAiEA56Xe8_Y9GDwpjs8MlFGgu_xP7IBhK2mSLEPrtuY2mCI",
-    "changelog": "v1.2.52: byte-faithful Divesoft serial debug, tolerant analyser date/time parsing, verified Wi-Fi onboarding and recovery fixes."
+    "sha256": "c8296fa211f58c418600f7c54015488d9b7885ecaca033318dcf3fdea550b45d",
+    "signature": "MEYCIQDp_a-SDgzezg8KoS24San_2aj1XuWoy8G3e4ZcZREkIAIhALPBq01mwAXSPnw3TIWotiR5s324fu8aB7POdO5LQLZz",
+    "changelog": "Improves recovery Wi-Fi/AP stability, validates new home Wi-Fi credentials before saving, preserves the licence during full USB recovery, adds maintenance mode, and extends configurable gas-label layouts."
   }
 }
