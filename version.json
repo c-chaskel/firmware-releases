@@ -8,11 +8,11 @@
     "changelog": "Fixes the Nitrox AP information screen layout so all setup rows remain visible without overlap."
   },
   "divesoftadapter": {
-    "version": "1.2.51",
-    "build": 202607230085,
+    "version": "1.2.52",
+    "build": 202607240087,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "61c654976299132e13f48d8d78cd043e503ed2ce41f3a494b59007fe6889fe67",
-    "signature": "MEUCIE2bq9eDRIrdbc6OLhjlBHSzhTNaGjVrC9GoD-GHQe9hAiEAp_Qc9zIyen5DG-TwrVhvRhAapB5poOpMjzwbWrOtiMc",
-    "changelog": "v1.2.51: full Divesoft serial timestamp capture and flexible date parsing; stable setup Wi-Fi DHCP and fresh-device AP persistence; local setup-Wi-Fi recovery .bin upload that preserves settings and licence."
+    "sha256": "39c6395d0ee52425be75357117004dd1ff6398c9fd835d092a269f4c7d5ef01d",
+    "signature": "MEUCIEMIntJAyt-JmbQVsNU8beX4er-kDJt8mGoUjqridpqrAiEA56Xe8_Y9GDwpjs8MlFGgu_xP7IBhK2mSLEPrtuY2mCI",
+    "changelog": "v1.2.52: byte-faithful Divesoft serial debug, tolerant analyser date/time parsing, verified Wi-Fi onboarding and recovery fixes."
   }
 }
