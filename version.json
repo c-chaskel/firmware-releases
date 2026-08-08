@@ -1,18 +1,18 @@
 {
   "nitroxanalyser": {
-    "version": "4.47",
-    "build": 202607170073,
+    "version": "4.52",
+    "build": 202608080115,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "ac03105921f020c28e6237b6194fd46337f88e30d5a7e244f1c7359f98ff235d",
-    "signature": "MEUCIHmc6SnOW0qL8eKxiIOP0LVHFOISieku153wFQnix4OmAiEAv-upp-7GBi6xHJ5K-cvBB6zsREU7UmbZFLgra8TxmME",
-    "changelog": "Fixes the Nitrox AP information screen layout so all setup rows remain visible without overlap."
+    "sha256": "ffe776bd1763698cab99759c35f34d5a5f6e5b60f025219d1ed18603c4c8b458",
+    "signature": "MEUCIBLiEDSeYnapAiRQtT2pTjZDG7rwF3JhnAJWz98rX_f6AiEAqB8eWoUf7_cSeuPHTCQtRHr0_60LpB4Wf01Yolo4IzQ",
+    "changelog": "Automated OTA firmware release"
   },
   "divesoftadapter": {
-    "version": "1.2.74",
-    "build": 202607240104,
+    "version": "1.2.75",
+    "build": 202608080115,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "c8296fa211f58c418600f7c54015488d9b7885ecaca033318dcf3fdea550b45d",
-    "signature": "MEYCIQDp_a-SDgzezg8KoS24San_2aj1XuWoy8G3e4ZcZREkIAIhALPBq01mwAXSPnw3TIWotiR5s324fu8aB7POdO5LQLZz",
-    "changelog": "Improves recovery Wi-Fi/AP stability, validates new home Wi-Fi credentials before saving, preserves the licence during full USB recovery, adds maintenance mode, and extends configurable gas-label layouts."
+    "sha256": "cfc814c92ddda988dd71f1c7d35e0ad84dcdcc9f532175b1dddb42cfd9138601",
+    "signature": "MEUCIQDNZJmBZvkcqh8WSG6JPnH6q2MnfNgqIKG6ZvZJpRUnagIgBu062FQ7Xhw_NHXJqyJhbhkw_WG8BvaEry4kzMXomWM",
+    "changelog": "Automated OTA firmware release"
   }
 }
