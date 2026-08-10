@@ -8,11 +8,11 @@
     "changelog": "Automated OTA firmware release"
   },
   "divesoftadapter": {
-    "version": "1.2.75",
-    "build": 202608080115,
+    "version": "1.2.76",
+    "build": 202608100119,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "cfc814c92ddda988dd71f1c7d35e0ad84dcdcc9f532175b1dddb42cfd9138601",
-    "signature": "MEUCIQDNZJmBZvkcqh8WSG6JPnH6q2MnfNgqIKG6ZvZJpRUnagIgBu062FQ7Xhw_NHXJqyJhbhkw_WG8BvaEry4kzMXomWM",
-    "changelog": "Automated OTA firmware release"
+    "sha256": "29aea46c60e4f5ea54282b623c368d4abe3ec49116bcfea105217d4e7074318c",
+    "signature": "MEYCIQDG72KZ9dUl9OnYKhK-JSvBH1-7B5tzWm5IuLqAFYZZFgIhAMblrDQRZpWaZVupkFMCWldn_lTYg8OJz-b98Qt_CWrS",
+    "changelog": "Adds Web UI controls for automatic-print pause (default 3 s) and repeat protection (15-300 s, default 30 s); keeps repeat protection active across noisy analyser frames."
   }
 }
