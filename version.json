@@ -1,11 +1,11 @@
 {
   "nitroxanalyser": {
-    "version": "4.52",
-    "build": 202608080115,
+    "version": "4.53",
+    "build": 202608110123,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "ffe776bd1763698cab99759c35f34d5a5f6e5b60f025219d1ed18603c4c8b458",
-    "signature": "MEUCIBLiEDSeYnapAiRQtT2pTjZDG7rwF3JhnAJWz98rX_f6AiEAqB8eWoUf7_cSeuPHTCQtRHr0_60LpB4Wf01Yolo4IzQ",
-    "changelog": "Automated OTA firmware release"
+    "sha256": "80d0fc427868c7b12c586e89fa1661439c85e3933cfae7695d7e590cc3f1c3a1",
+    "signature": "MEYCIQCch_Nvyh4K5WfdaUFzkFI-9kpDpC4PVpG0PPs4j_aRnQIhAOW_QYXM9xhKl6OvL8B78wX7-iJ7ecq6EY21i2VxDs3W",
+    "changelog": "Shows the complete setup Wi-Fi SSID and password on the Nitrox display by wrapping values onto additional rows instead of truncating them."
   },
   "divesoftadapter": {
     "version": "1.2.76",
