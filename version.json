@@ -8,11 +8,11 @@
     "changelog": "Shows the complete setup Wi-Fi SSID and password on the Nitrox display by wrapping values onto additional rows instead of truncating them."
   },
   "divesoftadapter": {
-    "version": "1.2.77",
-    "build": 202608210127,
+    "version": "1.2.78",
+    "build": 202608210131,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "f56da3aa3da1f472c1fec9d74a93f21997fd511fd6e11e3f9db5df3bb3bf7ea6",
-    "signature": "MEQCIAYE09HEVmoUQ963f-mA9fa2Hd7f1OECEd6za4m0ltG0AiALxeEZ_URM2qLeEDBtNhxCbjRsBL9RhCbSXzz4d9CbNA",
-    "changelog": "Connects saved Wi-Fi immediately at startup, uses setup Wi-Fi only as a bounded fallback, fixes the green-LED and setup-AP transition after saving Wi-Fi, and improves settings responsiveness and hostname handling."
+    "sha256": "25bb8c0322e020c3b3fa6ff850b0115a375aee0d3f49b8f125dd649ae66df645",
+    "signature": "MEQCICzSfseOP6OqzuIZK3yNTlT5h9EwzYdjVGCTD3wxd_gDAiBEem9XaBWp6oqPWHNWqVgs2j2t9ghC0vTL3jnnfP5Qrg",
+    "changelog": "Fix licence-preserving factory reset and prevent reset panics"
   }
 }
