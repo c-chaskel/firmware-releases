@@ -8,11 +8,11 @@
     "changelog": "Shows the complete setup Wi-Fi SSID and password on the Nitrox display by wrapping values onto additional rows instead of truncating them."
   },
   "divesoftadapter": {
-    "version": "1.2.81",
-    "build": 202609190150,
+    "version": "1.2.82",
+    "build": 202609190152,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "1f0a40924ace0cb3704c4c80eb319fbef7abb0f74fadc3c0aa41c80f3f4a790a",
-    "signature": "MEQCIAgUGYfAjgqLJO3iXEqDD0755G5FDyFi13IbJcmmgM_UAiAFzaH9Y9DctE1w2u-GkW1N8CKhJ_wb1hd73mykTDHt0g",
+    "sha256": "6a3b205dbe9699251e2e173f3762665b2714f49fd090977be8ccb0251a6caca6",
+    "signature": "MEUCIQDgh_ZIezJtZc5v_pZ8Asjqweb0QhWJkLJFt-xSmn84oQIgRkX-Z5T3V1CZatTXlMOlzhXIhXtHbmnMSnVcVV-U7gA",
     "changelog": "Adds a label size setting for printers that cannot report their loaded roll, such as the original B1. Printers that do report it, like the B1 Pro, continue to size themselves automatically."
   }
 }
