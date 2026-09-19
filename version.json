@@ -8,11 +8,11 @@
     "changelog": "Shows the complete setup Wi-Fi SSID and password on the Nitrox display by wrapping values onto additional rows instead of truncating them."
   },
   "divesoftadapter": {
-    "version": "1.2.78",
-    "build": 202608210131,
+    "version": "1.2.81",
+    "build": 202609190149,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "25bb8c0322e020c3b3fa6ff850b0115a375aee0d3f49b8f125dd649ae66df645",
-    "signature": "MEQCICzSfseOP6OqzuIZK3yNTlT5h9EwzYdjVGCTD3wxd_gDAiBEem9XaBWp6oqPWHNWqVgs2j2t9ghC0vTL3jnnfP5Qrg",
-    "changelog": "Fix licence-preserving factory reset and prevent reset panics"
+    "sha256": "1f0a40924ace0cb3704c4c80eb319fbef7abb0f74fadc3c0aa41c80f3f4a790a",
+    "signature": "MEUCIBmYk4twqdj6Ir_lAuBizy6KDiqtKpfdGYwCaUQuAnlMAiEAq0FjS0fh08uO5_rVn1uBVIDrnV4n9vSFKMPA-z8NurQ",
+    "changelog": "Detects the printer model and the loaded label roll, then prints at the correct size and resolution automatically. Fixes labels printing at two-thirds size on 300 DPI printers. Label size is no longer chosen by hand; only orientation, which is remembered when you change roll."
   }
 }
