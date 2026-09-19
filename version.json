@@ -9,10 +9,10 @@
   },
   "divesoftadapter": {
     "version": "1.2.81",
-    "build": 202609190149,
+    "build": 202609190150,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
     "sha256": "1f0a40924ace0cb3704c4c80eb319fbef7abb0f74fadc3c0aa41c80f3f4a790a",
-    "signature": "MEUCIBmYk4twqdj6Ir_lAuBizy6KDiqtKpfdGYwCaUQuAnlMAiEAq0FjS0fh08uO5_rVn1uBVIDrnV4n9vSFKMPA-z8NurQ",
-    "changelog": "Detects the printer model and the loaded label roll, then prints at the correct size and resolution automatically. Fixes labels printing at two-thirds size on 300 DPI printers. Label size is no longer chosen by hand; only orientation, which is remembered when you change roll."
+    "signature": "MEQCIAgUGYfAjgqLJO3iXEqDD0755G5FDyFi13IbJcmmgM_UAiAFzaH9Y9DctE1w2u-GkW1N8CKhJ_wb1hd73mykTDHt0g",
+    "changelog": "Adds a label size setting for printers that cannot report their loaded roll, such as the original B1. Printers that do report it, like the B1 Pro, continue to size themselves automatically."
   }
 }
