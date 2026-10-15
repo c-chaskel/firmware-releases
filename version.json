@@ -1,18 +1,18 @@
 {
   "nitroxanalyser": {
-    "version": "4.57",
-    "build": 202609190156,
+    "version": "4.60",
+    "build": 202610150002,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "85dc62a84252a7d3031075d4f159033458580e25aafe67d355610e13e51533ad",
-    "signature": "MEYCIQC6XicHwN1Y43H2-TJyt-gCfTEXLdKLU4WgJwp-kPYmYgIhAKDrE0zj3zWEYedZ-gaU9G1M4Prb8pLQMNRrNMU_vunR",
-    "changelog": "Detects the printer model and the loaded label roll, then prints at the correct size and resolution automatically. Fixes labels printing at two-thirds size on 300 DPI printers such as the B1 Pro. Shows the printer's battery level, and keeps a licensed device licensed if the signing key changes."
+    "sha256": "26eb4256c1f7eee24b1c1527dadfec1a9168bacdf74b1bb866da255709256f00",
+    "changelog": "Adds offline date/time entry and one-click phone/computer clock sync in Settings. Hold the button for two seconds to cancel printing back to the home screen. Removes clock-related delays, speeds up printer preparation and fixes USB detection and B1 battery reporting. Keeps the watchdog serviced during local firmware upload progress.",
+    "signature": "MEYCIQCVVQ0jZii0-tBUXpshyv5jnVO9bmgbwoV1Q1D5Lng_ywIhAPeDr4ffknC4vFGglhAs6--FDdiAY2A9grk6Za2R-OTw"
   },
   "divesoftadapter": {
-    "version": "1.2.83",
-    "build": 202609190156,
+    "version": "1.2.84",
+    "build": 202610150001,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "ac96d33cc2427ba04fddd410f86fe8d17b0a5d9e6ff2ff2b0f1e3f257a1ca565",
-    "signature": "MEUCIQDGt3KGxruSHQpkB8f428UI_eAo6dr_p16CO5bBpU4eNgIgYVIDENTmR9xSQal0lot79KEY0tlim-oEGYf8Lml49vQ",
-    "changelog": "Detects the printer model and the loaded label roll, then prints at the correct size and resolution automatically. Fixes labels printing at two-thirds size on 300 DPI printers such as the B1 Pro. Shows the printer's battery level, and keeps a licensed device licensed if the signing key changes."
+    "sha256": "93d32c30f069d523a0f9284d96f783340b7cae3f53101374e2f6c35266edddb4",
+    "changelog": "Adds offline date/time entry and one-click phone/computer clock sync in Settings, with optional battery-backed RTC storage. Manual time is used for labels and replaced automatically by internet time when available. Improves printer preparation and B1 battery reporting.",
+    "signature": "MEYCIQCICibFm9kb_mPv01K0TSlwPr8qRoDRrsS9-b1HfpHMYAIhANYe7MVxmC5AiCWKlzyWHrFtrjdFbU687m9aHZBDD0Ls"
   }
 }
