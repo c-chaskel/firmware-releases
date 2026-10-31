@@ -1,11 +1,11 @@
 {
   "nitroxanalyser": {
-    "version": "4.60",
-    "build": 202610150002,
+    "version": "4.61",
+    "build": 202611010001,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "26eb4256c1f7eee24b1c1527dadfec1a9168bacdf74b1bb866da255709256f00",
-    "changelog": "Adds offline date/time entry and one-click phone/computer clock sync in Settings. Hold the button for two seconds to cancel printing back to the home screen. Removes clock-related delays, speeds up printer preparation and fixes USB detection and B1 battery reporting. Keeps the watchdog serviced during local firmware upload progress.",
-    "signature": "MEYCIQCVVQ0jZii0-tBUXpshyv5jnVO9bmgbwoV1Q1D5Lng_ywIhAPeDr4ffknC4vFGglhAs6--FDdiAY2A9grk6Za2R-OTw"
+    "sha256": "db90be55e57142a3c0e7e36c474f84f298b61a270724d71be47a3848b32b0b16",
+    "changelog": "Free O2 analysis is now limited to a displayed 39.9% on the device and in the browser. From 40.0%, free mode shows PRO instead of the O2 and browser MOD readings; existing Pro licences retain the full range. Shortens the activation email hint so it no longer wraps onto the sensor millivolt row.",
+    "signature": "MEUCIDOd6mMT8szMGp3K2Jbb9rqh9Ih_CuSbUZY6vi7K7VhMAiEAmOsUgUHashS3YIAyLHrQaQxZKhUoNj2JhtcljpJ6mDc"
   },
   "divesoftadapter": {
     "version": "1.2.84",
