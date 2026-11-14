@@ -1,18 +1,18 @@
 {
   "nitroxanalyser": {
-    "version": "4.62",
-    "build": 202611140001,
+    "version": "4.65",
+    "build": 202611140002,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "6f9d24ceee1fb39ca8ca15652dd932255d1ce78d66e5b80c7b3d8aa2e647c77c",
-    "changelog": "Faster B1 monochrome label printing and B1 Pro red/black printing on compatible 50 x 30 mm dual-colour stock. Adds saved label-stock modes and quiet background printer availability checks, avoiding repeated Printer not found screens when a printer is asleep. Existing licences, calibration and settings are retained by update-only installation.",
-    "signature": "MEQCICzbx8Aypy34x4VEkNjpVoRVmv1t06fBU_GjG8QNCnYFAiBXOB5tsv3Rpl_aW5DHRprcVHKYu2-lOG9vdEij73x5eA"
+    "sha256": "f41135de1a99160faf506a131716ba1ff287f5408cfbd390d924d7baf6ed1f7a",
+    "changelog": "Adds label inversion and calculation-bar visibility controls, automatic selection for verified NIIMBOT stock, and a saved hypoxic warning threshold (0.18 bar default). Red is used only below the selected oxygen threshold; normal labels remain black/white. Inverted red bands now align with the black artwork edges. Fixes the Stay Connected web setting. Update-only installation retains licence, calibration and settings.",
+    "signature": "MEUCIE4crntECTE7toPAt_Q_naL8I15aMPi_A3DeHHwxGXdRAiEApBZU9S6IOSItTCicbfswo5ugzF9KlnCJ-M8e-kgt7-o"
   },
   "divesoftadapter": {
-    "version": "1.2.85",
-    "build": 202611140001,
+    "version": "1.2.87",
+    "build": 202611140002,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "8f188c50ac310c143e80cd83668e45bab4c62923e4f2d460f4a5f6aee5a37c15",
-    "changelog": "Faster B1 monochrome printing and B1 Pro red/black printing on compatible 50 x 30 mm dual-colour stock. Adds a red HYPOXIC banner with calculated minimum depth at 0.18 bar ppO2, without overlapping the gas values. Improves startup/stay-connected behaviour with quiet printer availability checks. Nitrox labels remain free; Pro reveals the actual helium percentage.",
-    "signature": "MEUCIAp6f5ujdFtiS9tbY2cuYNWsgAiwCsIuJ2_WHvIQS03OAiEA9frd7YdV8snOGzZ3dc5U-SdAsnwUtOxAocEkxwqMyKE"
+    "sha256": "8442d965689bcc17d09c23da23811a051fe651bde222e5c3df0d464a6fb5c1af",
+    "changelog": "Adds label inversion, independent MOD/END/bar visibility, optional gas density at MOD, and a saved hypoxic warning threshold (0.18 bar default). Verified RFID stock is selected automatically; red highlights are reserved for hypoxic gas. Inverted red bands align with the black artwork edges. Adds an optional local read-only analysis API, disabled by default. Experimental Bluetooth app transport is excluded. Existing licences and settings are retained by update-only installation.",
+    "signature": "MEUCIHKpw6PbUgJFtE-78Zf8Iybdq_PWOHpNaGR2NKxs3SxrAiEA-L6GLCs_okgZXS4K-reWk5vJPLLt4kGFr8U3_c_aXi4"
   }
 }
