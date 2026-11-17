@@ -1,18 +1,18 @@
 {
   "nitroxanalyser": {
-    "version": "4.65",
-    "build": 202611140002,
+    "version": "4.71",
+    "build": 202611170004,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "f41135de1a99160faf506a131716ba1ff287f5408cfbd390d924d7baf6ed1f7a",
-    "changelog": "Adds label inversion and calculation-bar visibility controls, automatic selection for verified NIIMBOT stock, and a saved hypoxic warning threshold (0.18 bar default). Red is used only below the selected oxygen threshold; normal labels remain black/white. Inverted red bands now align with the black artwork edges. Fixes the Stay Connected web setting. Update-only installation retains licence, calibration and settings.",
-    "signature": "MEUCIE4crntECTE7toPAt_Q_naL8I15aMPi_A3DeHHwxGXdRAiEApBZU9S6IOSItTCicbfswo5ugzF9KlnCJ-M8e-kgt7-o"
+    "sha256": "c21d02ed1ad57dc4a94728f7c2d73e6ac3e949fffea8c21f5cbfafa8f5a0f40d",
+    "changelog": "Adds the DiveStuff Bluetooth app connection with authenticated settings, clock sync and signed phone-to-device firmware transfer. Refines label layout, contrast and previews; keeps numeric examples separate from actual licence restrictions. Moves bounded print history out of settings NVS, preserving exported records and preventing storage exhaustion. Retains calibration, licences and saved settings with update-only installation.",
+    "signature": "MEUCIQD2tYz-03KGycL2jyx-c0CfQQAWXAjzftDoNGGWPJvRnQIgW3iOczjwKtsmqlUSTFv6KkdPcJfWARHNznrB3-1zgT4"
   },
   "divesoftadapter": {
-    "version": "1.2.87",
-    "build": 202611140002,
+    "version": "1.3.4",
+    "build": 202611170004,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "8442d965689bcc17d09c23da23811a051fe651bde222e5c3df0d464a6fb5c1af",
-    "changelog": "Adds label inversion, independent MOD/END/bar visibility, optional gas density at MOD, and a saved hypoxic warning threshold (0.18 bar default). Verified RFID stock is selected automatically; red highlights are reserved for hypoxic gas. Inverted red bands align with the black artwork edges. Adds an optional local read-only analysis API, disabled by default. Experimental Bluetooth app transport is excluded. Existing licences and settings are retained by update-only installation.",
-    "signature": "MEUCIHKpw6PbUgJFtE-78Zf8Iybdq_PWOHpNaGR2NKxs3SxrAiEA-L6GLCs_okgZXS4K-reWk5vJPLLt4kGFr8U3_c_aXi4"
+    "sha256": "1e63fd3cc6aa7a572a949404deb3f2ec8810facc2c93a2ccc43339366fa76a93",
+    "changelog": "Adds the DiveStuff Bluetooth app connection with authenticated settings, clock sync and signed phone-to-device firmware transfer. Refines label layout and contrast, supports verified perforated media, and defaults new layouts to landscape. Pairing keys remain viewable on the trusted Web UI. Bluetooth-only Wi-Fi shutdown requires a paired app and recorded key; restarting restores Wi-Fi. Existing licences and settings are retained by update-only installation.",
+    "signature": "MEYCIQC2cm3K6U7LOQsV3AxpliJ2SUxC7ThfGtKw22FzLkgZawIhAKzd9MT3IEoLRcwuCKhOjbYVPpBbyVAX2hwLzezPY0M7"
   }
 }
