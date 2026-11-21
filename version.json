@@ -1,18 +1,18 @@
 {
   "nitroxanalyser": {
-    "version": "4.65",
-    "build": 202611140002,
+    "version": "4.66",
+    "build": 202611210001,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/nitroxanalyser.bin",
-    "sha256": "f41135de1a99160faf506a131716ba1ff287f5408cfbd390d924d7baf6ed1f7a",
-    "changelog": "Adds label inversion and calculation-bar visibility controls, automatic selection for verified NIIMBOT stock, and a saved hypoxic warning threshold (0.18 bar default). Red is used only below the selected oxygen threshold; normal labels remain black/white. Inverted red bands now align with the black artwork edges. Fixes the Stay Connected web setting. Update-only installation retains licence, calibration and settings.",
-    "signature": "MEUCIE4crntECTE7toPAt_Q_naL8I15aMPi_A3DeHHwxGXdRAiEApBZU9S6IOSItTCicbfswo5ugzF9KlnCJ-M8e-kgt7-o"
+    "sha256": "22d4e046d05ba51b5e58d81cd8199fb522ff5c4f76b5de6336550aefcfc47c3d",
+    "changelog": "Adds dedicated landscape and portrait artwork for 50 × 80 mm monochrome labels. The B1 Pro can wait for the full label to finish.",
+    "signature": "MEYCIQCPpxqAts41adhIdiY2wG-N6ROkNsw2zYo246eJvhBvZwIhAJYmjRAkKWpFyc6qmYSgrMpOcei3TKbduibaW4ekzYAy"
   },
   "divesoftadapter": {
-    "version": "1.2.87",
-    "build": 202611140002,
+    "version": "1.2.88",
+    "build": 202611210001,
     "url": "https://raw.githubusercontent.com/c-chaskel/firmware-releases/main/divesoftadapter.bin",
-    "sha256": "8442d965689bcc17d09c23da23811a051fe651bde222e5c3df0d464a6fb5c1af",
-    "changelog": "Adds label inversion, independent MOD/END/bar visibility, optional gas density at MOD, and a saved hypoxic warning threshold (0.18 bar default). Verified RFID stock is selected automatically; red highlights are reserved for hypoxic gas. Inverted red bands align with the black artwork edges. Adds an optional local read-only analysis API, disabled by default. Experimental Bluetooth app transport is excluded. Existing licences and settings are retained by update-only installation.",
-    "signature": "MEUCIHKpw6PbUgJFtE-78Zf8Iybdq_PWOHpNaGR2NKxs3SxrAiEA-L6GLCs_okgZXS4K-reWk5vJPLLt4kGFr8U3_c_aXi4"
+    "sha256": "01ab1ea304df3c9fe3b950f3381206d15ae5224d00be654f3ec4cb8bd2d7d8e0",
+    "changelog": "Recognises the 50 × 80 mm white B1 Pro roll and waits for longer monochrome prints in portrait and landscape.",
+    "signature": "MEQCIEantEFLH9T4Rj_9ONXR1XngbkRr0--n2HaqlA7nN37JAiAhyI3pgRU_KfoL8DePNmwVaCYG_ncEsZutkb8Rqffb0w"
   }
 }
